@@ -1,0 +1,2 @@
+# denizbotsite
+DenizBOT için site
